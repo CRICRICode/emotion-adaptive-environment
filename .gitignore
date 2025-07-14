@@ -1,0 +1,67 @@
+# Generated Unity state
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+/[Bb]uild/
+/[Bb]uilds/
+/MemoryCaptures/
+/Recordings/
+*.csproj
+*.sln
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.opendb
+*.VC.db
+/.vs/
+/.vscode/
+/.vsconfig
+/heu_settings.ini
+/hooks/
+
+# Python and local tooling
+**/.venv/
+**/venv/
+**/tesi-env/
+**/__pycache__/
+*.py[cod]
+**/node_modules/
+*.restoring
+.env
+.env.*
+
+# Operating system files and reference documents
+.DS_Store
+Thumbs.db
+Desktop.ini
+*.pdf
+*.ppt
+*.pptx
+
+# Large restored assets: exact paths are appended from the archive manifest.
+# Restored originals are represented by the archives in large-assets.
+/Assets/Fear.fbx
+/Assets/Fear_v1.fbx
+/Assets/HoudiniEngineAssetCache/Baked/neutrality_stability_1_0 10/Meshes/neutrality_stability__1.0_meshes.asset
+/Assets/HoudiniEngineAssetCache/Baked/neutrality_stability_1_0 11/Meshes/neutrality_stability__1.0_meshes.asset
+/Assets/HoudiniEngineAssetCache/Baked/neutrality_stability_1_0 14/Meshes/neutrality_stability__1.0_meshes.asset
+/Assets/HoudiniEngineAssetCache/Baked/neutrality_stability_1_0 4/Meshes/neutrality_stability__1.0_meshes.asset
+/Assets/HoudiniEngineAssetCache/Baked/neutrality_stability_1_0 5/Meshes/neutrality_stability__1.0_meshes.asset
+/Assets/HoudiniEngineAssetCache/Baked/neutrality_stability_1_0 6/Meshes/neutrality_stability__1.0_meshes.asset
+/Assets/HoudiniEngineAssetCache/Baked/neutrality_stability_1_0 9/Meshes/neutrality_stability__1.0_meshes.asset
+/Assets/HoudiniEngineAssetCache/Baked/neutrality_stability_1_0/Meshes/neutrality_stability__1.0_meshes.asset
+/Assets/HoudiniEngineAssetCache/Baked/neutrality_stability_1_16/Meshes/neutrality_stability__1.0_meshes.asset
+/Assets/HoudiniEngineAssetCache/Baked/neutrality_stability_1_18/Meshes/neutrality_stability__1.0_meshes.asset
+/Assets/HoudiniEngineAssetCache/Baked/neutrality_stability_1_2 1/Meshes/neutrality_stability__1.0_meshes.asset
+/Assets/HoudiniEngineAssetCache/Baked/neutrality_stability_1_2 2/Meshes/neutrality_stability__1.0_meshes.asset
+/Assets/HoudiniEngineAssetCache/Baked/neutrality_stability_1_2 3/Meshes/neutrality_stability__1.0_meshes.asset
+/Assets/HoudiniEngineAssetCache/Baked/neutrality_stability_1_2 4/Meshes/neutrality_stability__1.0_meshes.asset
+/Assets/HoudiniEngineAssetCache/Baked/neutrality_stability_1_2 5/Meshes/neutrality_stability__1.0_meshes.asset
+/Assets/HoudiniEngineAssetCache/Baked/neutrality_stability_1_2/Meshes/neutrality_stability__1.0_meshes.asset
+/Assets/HoudiniEngineAssetCache/Baked/neutrality_stability_1_5/Meshes/neutrality_stability__1.0_meshes.asset
+/Assets/Scenes/SampleScene.unity
+/Assets/Test.unity
+/Assets/surpriseTest.fbx

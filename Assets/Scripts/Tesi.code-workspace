@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../.."
+		},
+		{
+			"path": "../../../emotion-detector"
+		}
+	],
+	"settings": {
+		"dotnet.defaultSolution": "Tesi.sln"
+	}
+}

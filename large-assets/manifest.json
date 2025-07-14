@@ -1,0 +1,296 @@
+{
+  "format": 1,
+  "compression": "gzip",
+  "part_size_limit": 536870912,
+  "files": [
+    {
+      "path": "Assets/Fear.fbx",
+      "size": 485884619,
+      "sha256": "348cce761f28b5df40c57a4c8d698548e7ca3cca86f683847fd3f14562c55f18",
+      "parts": [
+        {
+          "path": "large-assets/001.gz.part001",
+          "size": 114320653,
+          "sha256": "1d0a35e62b9435eea56c5b52cb3974230b56e493a8246712e55cd36797929d7d"
+        }
+      ]
+    },
+    {
+      "path": "Assets/Fear_v1.fbx",
+      "size": 350253664,
+      "sha256": "70be96e96150d7867b5086ff5e7647e741e94eb1e750465496ad63abcf1f841b",
+      "parts": [
+        {
+          "path": "large-assets/002.gz.part001",
+          "size": 113198221,
+          "sha256": "06b07d58cae342fa9ee35fac4097b1a55969162d9202c71083f3b71426a75ac0"
+        }
+      ]
+    },
+    {
+      "path": "Assets/HoudiniEngineAssetCache/Baked/neutrality_stability_1_0 10/Meshes/neutrality_stability__1.0_meshes.asset",
+      "size": 443876534,
+      "sha256": "81ee0dbbcb5f721bf888be65e09eff3d3ee0171fbdb5f04d603c54445d674f94",
+      "parts": [
+        {
+          "path": "large-assets/003.gz.part001",
+          "size": 78187424,
+          "sha256": "572913c8970127950a8e2b4742cdb304f1add8bef6f2a572de445cc8ad05cfcb"
+        }
+      ]
+    },
+    {
+      "path": "Assets/HoudiniEngineAssetCache/Baked/neutrality_stability_1_0 11/Meshes/neutrality_stability__1.0_meshes.asset",
+      "size": 70021039,
+      "sha256": "8b2f789db1d89c56f778b8bcd114781f075769816089704dfaff51744c452341",
+      "parts": [
+        {
+          "path": "large-assets/004.gz.part001",
+          "size": 10549466,
+          "sha256": "a5438bc7bb477ce33d894b627f485256615c4666116fd05c598f908d906dff04"
+        }
+      ]
+    },
+    {
+      "path": "Assets/HoudiniEngineAssetCache/Baked/neutrality_stability_1_0 14/Meshes/neutrality_stability__1.0_meshes.asset",
+      "size": 1887623611,
+      "sha256": "4d9099f22e23ce0a8e1974bd4684b0ccd4f97c3ca21d4337315925c32a1126b5",
+      "parts": [
+        {
+          "path": "large-assets/005.gz.part001",
+          "size": 358077996,
+          "sha256": "cff84073dac548da0a04260d69a901c932ac0309c5bfccb0afc4ef5f27b7523b"
+        }
+      ]
+    },
+    {
+      "path": "Assets/HoudiniEngineAssetCache/Baked/neutrality_stability_1_0 4/Meshes/neutrality_stability__1.0_meshes.asset",
+      "size": 108598459,
+      "sha256": "ff9d6d631de037b758b214e92ef1c576023f9e7825d4b51bd32b78342f684397",
+      "parts": [
+        {
+          "path": "large-assets/006.gz.part001",
+          "size": 15102441,
+          "sha256": "3dd76251e5a53f3dc84801a2bcddea3a5895583e498bd45291721215258497c0"
+        }
+      ]
+    },
+    {
+      "path": "Assets/HoudiniEngineAssetCache/Baked/neutrality_stability_1_0 5/Meshes/neutrality_stability__1.0_meshes.asset",
+      "size": 4634499325,
+      "sha256": "c3982d636c67364019417d7fa47820110710cb2b3b09f3dbee65a567d6798888",
+      "parts": [
+        {
+          "path": "large-assets/007.gz.part001",
+          "size": 536870912,
+          "sha256": "ba7ac0b4475f96e43e413c9381c571870b56cdd607b304acc429e6cebde4a38c"
+        },
+        {
+          "path": "large-assets/007.gz.part002",
+          "size": 338829363,
+          "sha256": "969d236e7e9e2d1b56e192fa7c2096a237f5790aacf442a5da5f8b7cc083e4f5"
+        }
+      ]
+    },
+    {
+      "path": "Assets/HoudiniEngineAssetCache/Baked/neutrality_stability_1_0 6/Meshes/neutrality_stability__1.0_meshes.asset",
+      "size": 810640837,
+      "sha256": "e2771852c65c72d9875be8b5f2e0c18f0079c386ca76cae6e5fd3f1b492a6d1c",
+      "parts": [
+        {
+          "path": "large-assets/008.gz.part001",
+          "size": 119275083,
+          "sha256": "c8624c22614ccb0aaad9d7c31101c3676283db61c23b40529bb7d75f42028183"
+        }
+      ]
+    },
+    {
+      "path": "Assets/HoudiniEngineAssetCache/Baked/neutrality_stability_1_0 9/Meshes/neutrality_stability__1.0_meshes.asset",
+      "size": 1667871927,
+      "sha256": "777f9afde6d86192ccebe9e83f8f9e130063b1645b084b1b8dc013c844e32024",
+      "parts": [
+        {
+          "path": "large-assets/009.gz.part001",
+          "size": 321536161,
+          "sha256": "c4bbb0a620404c8a4a9a2793b3d9cc1b2a8e069ab8c35c5a43abef8156081402"
+        }
+      ]
+    },
+    {
+      "path": "Assets/HoudiniEngineAssetCache/Baked/neutrality_stability_1_0/Meshes/neutrality_stability__1.0_meshes.asset",
+      "size": 108598459,
+      "sha256": "51a85594d52529f2c0ad912f255ec476000d5bdfc4717f34cb821708cb719046",
+      "parts": [
+        {
+          "path": "large-assets/010.gz.part001",
+          "size": 15116444,
+          "sha256": "3fd93698469ef47ab713f31bb0ce0a8ad218610c075f61923b4d7b3187ce38a5"
+        }
+      ]
+    },
+    {
+      "path": "Assets/HoudiniEngineAssetCache/Baked/neutrality_stability_1_16/Meshes/neutrality_stability__1.0_meshes.asset",
+      "size": 108598459,
+      "sha256": "9b4efa4c669227c691f36b56260efcea099de00a2ab6384039acf374f978ee85",
+      "parts": [
+        {
+          "path": "large-assets/011.gz.part001",
+          "size": 15116453,
+          "sha256": "5309062a6b9d5d199aebf37c0d65f9cdbba8afa5f267b67efcbe07a665510c26"
+        }
+      ]
+    },
+    {
+      "path": "Assets/HoudiniEngineAssetCache/Baked/neutrality_stability_1_18/Meshes/neutrality_stability__1.0_meshes.asset",
+      "size": 108598459,
+      "sha256": "9b4efa4c669227c691f36b56260efcea099de00a2ab6384039acf374f978ee85",
+      "parts": [
+        {
+          "path": "large-assets/012.gz.part001",
+          "size": 15116453,
+          "sha256": "5309062a6b9d5d199aebf37c0d65f9cdbba8afa5f267b67efcbe07a665510c26"
+        }
+      ]
+    },
+    {
+      "path": "Assets/HoudiniEngineAssetCache/Baked/neutrality_stability_1_2 1/Meshes/neutrality_stability__1.0_meshes.asset",
+      "size": 4634499573,
+      "sha256": "e958480e809ce7dd5cea100006b43e51b989b2c17f980c06fe8a620d61a7c2d2",
+      "parts": [
+        {
+          "path": "large-assets/013.gz.part001",
+          "size": 536870912,
+          "sha256": "3f4e9186fd36be1f53778e1f326899952d8c900dd9056204eac090d50ee2b6ea"
+        },
+        {
+          "path": "large-assets/013.gz.part002",
+          "size": 339044697,
+          "sha256": "50dd5895e8cd7d71beae7c2317ffc44a9def181617b305a3aad637c520c1b8ec"
+        }
+      ]
+    },
+    {
+      "path": "Assets/HoudiniEngineAssetCache/Baked/neutrality_stability_1_2 2/Meshes/neutrality_stability__1.0_meshes.asset",
+      "size": 3080967799,
+      "sha256": "7c1cd5511cb86a704d5133ca274e7fc9098fc977dd35fae3c58edf59bebd83a8",
+      "parts": [
+        {
+          "path": "large-assets/014.gz.part001",
+          "size": 536870912,
+          "sha256": "169825edcf1f6b397f40bc335d5f272de30274b3d5b1c6e344d851ee90f2271a"
+        },
+        {
+          "path": "large-assets/014.gz.part002",
+          "size": 33609313,
+          "sha256": "09bdc59e0b85e98e13190bc00d0a37365ec770e16b31cfcca1516e65f2d73f06"
+        }
+      ]
+    },
+    {
+      "path": "Assets/HoudiniEngineAssetCache/Baked/neutrality_stability_1_2 3/Meshes/neutrality_stability__1.0_meshes.asset",
+      "size": 2277371595,
+      "sha256": "b70b9fa09fa7038eac9335a3b90357ef46217b6b8181eae35f5f76c7c248c3ff",
+      "parts": [
+        {
+          "path": "large-assets/015.gz.part001",
+          "size": 433149727,
+          "sha256": "5e2fecd5d626d9fa9ca659d360955a1c494f36a59bb2143bdd92c1880533eeb7"
+        }
+      ]
+    },
+    {
+      "path": "Assets/HoudiniEngineAssetCache/Baked/neutrality_stability_1_2 4/Meshes/neutrality_stability__1.0_meshes.asset",
+      "size": 4339659167,
+      "sha256": "fc1f10bda70ef00c7dbcbff07222d93d9469d5e9bd6a72a49b1ff9c8a22634c3",
+      "parts": [
+        {
+          "path": "large-assets/016.gz.part001",
+          "size": 536870912,
+          "sha256": "51080744f410e0d5d62087aca89d62047cb2ea3ac61271ab2b9d4606fe0087e7"
+        },
+        {
+          "path": "large-assets/016.gz.part002",
+          "size": 297403136,
+          "sha256": "fd226a56b7af96121c9efb463f1ea14ac6d4ec46cf6514c2857ff410d6f34ee0"
+        }
+      ]
+    },
+    {
+      "path": "Assets/HoudiniEngineAssetCache/Baked/neutrality_stability_1_2 5/Meshes/neutrality_stability__1.0_meshes.asset",
+      "size": 4246050676,
+      "sha256": "634951a4e1c039fa01bd35b5ed16cfc48d2c67597e327b20854dc9912c8ba19b",
+      "parts": [
+        {
+          "path": "large-assets/017.gz.part001",
+          "size": 536870912,
+          "sha256": "40427c530185ebbc7253f059c885f9abbe8b08bc40c55b1d6960336c12cf8fbb"
+        },
+        {
+          "path": "large-assets/017.gz.part002",
+          "size": 281391516,
+          "sha256": "8c7a83ef43537c690a2c12ecd1e2748a07626d4fc8e700ab59d0015dd137f0fb"
+        }
+      ]
+    },
+    {
+      "path": "Assets/HoudiniEngineAssetCache/Baked/neutrality_stability_1_2/Meshes/neutrality_stability__1.0_meshes.asset",
+      "size": 109846449,
+      "sha256": "a6317831156a123aab1de365358b81c5b30bd84934f273447d9d66d6475cd3bc",
+      "parts": [
+        {
+          "path": "large-assets/018.gz.part001",
+          "size": 15307103,
+          "sha256": "15a39e2df53b167899a6407c5b98804e2d4c17e25db34e2b750cbf189a92643a"
+        }
+      ]
+    },
+    {
+      "path": "Assets/HoudiniEngineAssetCache/Baked/neutrality_stability_1_5/Meshes/neutrality_stability__1.0_meshes.asset",
+      "size": 108598459,
+      "sha256": "9b4efa4c669227c691f36b56260efcea099de00a2ab6384039acf374f978ee85",
+      "parts": [
+        {
+          "path": "large-assets/019.gz.part001",
+          "size": 15116453,
+          "sha256": "5309062a6b9d5d199aebf37c0d65f9cdbba8afa5f267b67efcbe07a665510c26"
+        }
+      ]
+    },
+    {
+      "path": "Assets/Scenes/SampleScene.unity",
+      "size": 91308766,
+      "sha256": "504c681f641efae18cbf4e461a37d9547a35b8a8d703e412d6c32b0b2f8dc5ca",
+      "parts": [
+        {
+          "path": "large-assets/020.gz.part001",
+          "size": 5287308,
+          "sha256": "00b79eeaeb0c4513b0787fa133f955ed6f8de28b899910f39585d6b112f4b9e1"
+        }
+      ]
+    },
+    {
+      "path": "Assets/Test.unity",
+      "size": 90770291,
+      "sha256": "970f3f644da0b63522c0ffcd56b2e9681916cddf1067491070090a1657646c74",
+      "parts": [
+        {
+          "path": "large-assets/021.gz.part001",
+          "size": 5173029,
+          "sha256": "4ff1c01268643f55dad8e0b158a2beb035ce49d3841ba255e7c822e1426355cd"
+        }
+      ]
+    },
+    {
+      "path": "Assets/surpriseTest.fbx",
+      "size": 187420571,
+      "sha256": "9c44b76d92ac27ea1153a88c9abc0583db529437b2ef976fdbb71c25f7b6d0be",
+      "parts": [
+        {
+          "path": "large-assets/022.gz.part001",
+          "size": 37303015,
+          "sha256": "23c63bbcce1d9055b053f3ab7b8f16115a65855980533b7cb1036120afe2ce3a"
+        }
+      ]
+    }
+  ]
+}
