@@ -6,6 +6,12 @@ Developed as a bachelor's thesis project by **Giuseppe Cricrì**, it explores ho
 
 The project demonstrates a complete path from webcam input to visual feedback. Its evaluation combines the implementation's timing parameters with user feedback on the proposed environments.
 
+## Prototype in action
+
+![Webcam face detection, the Python FER service, and expression labels received in the Unity Console](docs/images/facial-expression-unity-pipeline.png)
+
+This screenshot shows an early integration test: the webcam feed displays the detected face, Python's FER classifier produces an expression label, and Flask exposes it as JSON. Unity deserializes the response into the `EmotionResponse.emotion` string, which the scene controller uses to select an environment.
+
 ## Features
 
 - **Facial expression recognition:** detects a face and selects the highest-scoring expression returned by the pretrained FER model.
